@@ -1,0 +1,97 @@
+img {
+  position: absolute;
+  width: 133px;
+  height: 133px;
+  left: 838px;
+  top: 142.5px;
+}
+
+.first_para {
+  position: absolute;
+  width: 876px;
+  height: 86px;
+  left: 438px;
+  top: 397px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+}
+
+.second_para {
+  position: absolute;
+  width: 876px;
+  height: 170px;
+  left: 438px;
+  top: 476px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+}
+
+.third_para {
+  position: absolute;
+  width: 878px;
+  height: 180px;
+  left: 436px;
+  top: 623px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+}
+
+.hire_me {
+  position: absolute;
+  width: 97px;
+  height: 24px;
+  left: 664px;
+  top: 851px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+
+  color: #f75916;
+  text-decoration: none;
+}
+
+.contact {
+  position: absolute;
+  width: 100px;
+  height: 24px;
+  left: 954px;
+  top: 851px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+
+  color: #f8a62b;
+  text-decoration: none;
+}
