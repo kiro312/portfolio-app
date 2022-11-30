@@ -1,0 +1,133 @@
+img {
+  width: 156px;
+  height: 156px;
+  position: absolute;
+  left: 126px;
+  top: 94px;
+}
+
+.name {
+  position: absolute;
+  left: 71px;
+  top: 270px;
+
+  font-style: italic;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: 0.2em;
+  color: #ef5c0a;
+}
+
+.hl {
+  position: absolute;
+  left: 61px;
+  top: 342px;
+  width: 294px;
+  border: 3px solid #fbcb20;
+}
+
+ul {
+  list-style: none;
+  position: absolute;
+
+  width: 149px;
+  height: 460px;
+  line-height: 29px;
+}
+
+li,
+a {
+  text-decoration: none;
+  letter-spacing: 0.4em;
+}
+
+.About {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  position: absolute;
+  left: 131px;
+  top: 423px;
+  letter-spacing: 0.4em;
+}
+
+.Skill {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  position: absolute;
+  left: 131px;
+  top: 485px;
+  letter-spacing: 0.4em;
+}
+
+.Design {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  position: absolute;
+  left: 131px;
+  top: 551px;
+  letter-spacing: 0.4em;
+}
+
+.Preview {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  position: absolute;
+  left: 131px;
+  top: 623px;
+  letter-spacing: 0.4em;
+}
+
+.Contact {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  position: absolute;
+  left: 131px;
+  top: 692px;
+  letter-spacing: 0.4em;
+}
+
+.hire_me {
+  position: absolute;
+  left: 155px;
+  top: 851px;
+  width: 97px;
+  height: 24px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+
+  color: #f75916;
+}
+
+.vl {
+  position: absolute;
+  left: 406.5px;
+  top: 62px;
+  height: 900px;
+  border-left: 3px solid #f4c20f;
+}
