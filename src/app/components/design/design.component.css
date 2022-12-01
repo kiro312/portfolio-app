@@ -1,0 +1,35 @@
+.title {
+  position: absolute;
+  width: 180px;
+  height: 44px;
+  left: 811px;
+  top: 173px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffbd13;
+}
+
+.hl {
+  box-sizing: border-box;
+  position: absolute;
+  width: 294px;
+  height: 3px;
+  left: 753.9px;
+  top: 231.8px;
+  background: #fb470f;
+}
+
+.box {
+  box-sizing: border-box;
+  position: absolute;
+  width: 221px;
+  height: 164px;
+  border: 2px solid #fb470f;
+}
