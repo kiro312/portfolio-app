@@ -1,1 +1,1 @@
-# This project is a test of something and not fully completed
+# This project is a test for something
