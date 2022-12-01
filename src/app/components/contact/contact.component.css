@@ -1,0 +1,50 @@
+.title {
+  position: absolute;
+  width: 182px;
+  height: 53px;
+  left: 808px;
+  top: 137px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.2em;
+
+  color: #f29406;
+}
+
+.title2 {
+  position: absolute;
+  width: 674px;
+  height: 43px;
+  left: 562px;
+  top: 201px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.2em;
+
+  color: #ffffff;
+}
+
+input {
+  position: absolute;
+  background: #c4c4c4;
+  padding-left: 15px;
+  font-size: large;
+  height: 52px;
+}
+
+::placeholder {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  letter-spacing: 0.4em;
+}
