@@ -81,29 +81,16 @@ a {
   letter-spacing: 0.4em;
 }
 
-.Preview {
-  color: #ffffff;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 29px;
-  position: absolute;
-  left: 131px;
-  top: 623px;
-  letter-spacing: 0.4em;
-}
-
 .Contact {
+  position: absolute;
   color: #ffffff;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 29px;
-  position: absolute;
   left: 131px;
-  top: 692px;
+  top: 613px;
   letter-spacing: 0.4em;
 }
 

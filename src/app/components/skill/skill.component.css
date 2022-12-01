@@ -1,0 +1,289 @@
+.title {
+  position: absolute;
+  width: 126px;
+  height: 52px;
+  left: 862px;
+  top: 146px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.2em;
+  color: #ffbd13;
+}
+
+.logo_design {
+  position: absolute;
+  width: 190px;
+  height: 29px;
+  left: 550px;
+  top: 293px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  color: #ffffff;
+}
+
+.logo_design_line_1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 754px;
+  height: 12px;
+  left: 550px;
+  top: 330px;
+  background: #c4c4c4;
+}
+
+.logo_design_line_2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 694px;
+  height: 12px;
+  left: 550px;
+  top: 330px;
+  background: #fb470f;
+}
+
+.logo_design_percentage {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 1214px;
+  top: 355px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2em;
+  color: #ffbd13;
+}
+
+.manipulation {
+  position: absolute;
+  width: 303px;
+  height: 29px;
+  left: 550px;
+  top: 421px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffffff;
+}
+
+.manipulation_line_1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 754px;
+  height: 12px;
+  left: 550px;
+  top: 458px;
+  background: #c4c4c4;
+}
+
+.manipulation_line_2 {
+  position: absolute;
+  width: 738px;
+  height: 12px;
+  left: 550px;
+  top: 458px;
+
+  background: #fb470f;
+}
+
+.manipulation_percentage {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 1258px;
+  top: 479px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffbd13;
+}
+
+.poster {
+  position: absolute;
+  width: 216px;
+  height: 29px;
+  left: 550px;
+  top: 549px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffffff;
+}
+
+.poster_line_1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 754px;
+  height: 12px;
+  left: 550px;
+  top: 586px;
+
+  background: #c4c4c4;
+}
+
+.poster_line_2 {
+  position: absolute;
+  width: 632px;
+  height: 12px;
+  left: 550px;
+  top: 587px;
+
+  background: #fb470f;
+}
+
+.poster_percentage {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 1155px;
+  top: 615px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffbd13;
+}
+
+.markting {
+  position: absolute;
+  width: 305px;
+  height: 29px;
+  left: 550px;
+  top: 677px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffffff;
+}
+
+.markting_line_1 {
+  position: absolute;
+  width: 754px;
+  height: 12px;
+  left: 550px;
+  top: 714px;
+
+  background: #c4c4c4;
+}
+
+.markting_line_2 {
+  position: absolute;
+  width: 694px;
+  height: 12px;
+  left: 550px;
+  top: 714px;
+
+  background: #fb470f;
+}
+
+.markting_percentage {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 1214px;
+  top: 739px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffbd13;
+}
+
+.other {
+  position: absolute;
+  width: 220px;
+  height: 29px;
+  left: 550px;
+  top: 805px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffffff;
+}
+
+.other_line_1 {
+  position: absolute;
+  width: 754px;
+  height: 12px;
+  left: 550px;
+  top: 842px;
+
+  background: #c4c4c4;
+}
+
+.other_line_2 {
+  position: absolute;
+  width: 584px;
+  height: 12px;
+  left: 550px;
+  top: 842px;
+
+  background: #fb470f;
+}
+
+.other_percentage {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 1111px;
+  top: 863px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  letter-spacing: 0.2em;
+
+  color: #ffbd13;
+}
